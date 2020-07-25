@@ -1,0 +1,6 @@
+../../touch/build/shared_libs/8953/libFastRPC_UTF_Forward_skel.so
+
+../../performance/sysmonapp/build/shared_libs/8953/libsysmon_skel.so
+
+../bsp/fastrpc_shell_img/build/8953/fastrpc_shell_0
+

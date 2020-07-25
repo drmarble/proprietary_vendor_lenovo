@@ -1,0 +1,1 @@
+mcfg_hw/generic/common/sdm450/la/ss/mcfg_hw.mbn
